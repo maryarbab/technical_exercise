@@ -1,3 +1,5 @@
+# Techincal exercise
+
 **Goal:** The goal of this technical exercise is to develop a python script to automatically extract Energy and Waste Emissions Factors from a particular source (description provided below) and normalize them to Climatiq Emissions Facors Database (EFDB) schema and add them to the EFDB. Below is a description of the source and Climatiq EFDB:
 
 - **Source:** EPA 2023- The United States government agency that provides regularly updated default emission factors for organisational greenhouse gas reporting in the United States. EPA_ghg-emission-factors-hub.xlsx is the source raw data file, which is available in the Github repository shared with the candidate.

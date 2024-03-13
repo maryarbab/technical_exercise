@@ -87,11 +87,6 @@ Year of publication of the emission factor by the source. Note that this is typi
 
 The range of years for which the data is considered valid by the source, expressed as "2022" or "2016-2021" for example.
 
-### years_calculated_from
-`string` | defined structure
-
-The range of years for which the data is calculated from, if such information is provided by the source, expressed as "2021" or "2016-2018" for example.
-
 ### region
 `string` | defined values
 
